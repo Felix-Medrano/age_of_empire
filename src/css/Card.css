@@ -1,11 +1,10 @@
-.card {  
+.card {
   margin-top: 20px;
 }
 
-.contenedor{
-  display: flex;
-  margin-top: 50px;
-  height: 500px;
+.contenedor {
+  margin-top: 20px;
+  height: 400px;
   width: 600px;
   border: 1px solid gray;
 }
